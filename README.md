@@ -24,39 +24,21 @@
 
 ## Description
 
-[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+API service for Upload and Download (return Base64) file
+
+swagger doc endpont => http://[url]:[port]/api/doc
 
 ## Installation
-
-```bash
-$ npm install
-```
+1. create `.env` file
+2. `yarn install`
 
 ## Running the app
 
 ```bash
-# development
-$ npm run start
-
-# watch mode
-$ npm run start:dev
-
-# production mode
-$ npm run start:prod
+yarn start:dev
 ```
 
-## Test
 
-```bash
-# unit tests
-$ npm run test
-
-# e2e tests
-$ npm run test:e2e
-
-# test coverage
-$ npm run test:cov
-```
 
 ## Support
 
